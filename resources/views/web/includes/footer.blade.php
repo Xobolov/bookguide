@@ -33,7 +33,7 @@
                         </li>
                         <li>
                             <i class="fal fa-envelope fa-lg"></i>
-                            <strong>Email:</strong> <a href="mailto:mail@example.com"> hobolov.ferhad.fh@gmail.com</a>
+                            <strong>Email:</strong> <a href="mailto:mail@example.com"> farhad.xobolov@gmail.com</a>
                         </li>
                     </ul>
                 </div>

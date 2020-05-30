@@ -18,7 +18,7 @@
             <h4 class="mb-2 mb-sm-0 pt-1">
               <a href="https://mdbootstrap.com/docs/jquery/" target="_blank">Home Page</a>
               <span>/</span>
-              <span>Choices</span>
+              <span>Misleading Choices</span>
             </h4>
           </div>
 

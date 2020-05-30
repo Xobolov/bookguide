@@ -38,10 +38,10 @@
 
       <select class="mdb-select md-form" name="test_id">
 
-        <option disabled selected>Choose Book</option>
+        <option disabled selected>Which Book to Test</option>
 
         @foreach ($tests as $test)
-        <option value="{{$test->id}}">{{$test->name}} / {{$test->book_id}}</option>
+        <option value="{{$test->id}}">{{$test->book->name}} <--> {{$test->name}}</option>
         @endforeach
 
       </select>

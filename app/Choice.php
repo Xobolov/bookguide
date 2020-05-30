@@ -10,6 +10,6 @@ class Choice extends Model
 
     public function test()
     {
-        return $this->hasOne(QuestionCategory::class, 'id', 'test_id');
+        return $this->belongsTo(QuestionCategory::class, 'test_id', 'id');
     }
 }
